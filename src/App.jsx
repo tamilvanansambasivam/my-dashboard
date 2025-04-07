@@ -24,6 +24,10 @@ export default function App() {
           />
           <LinkCard title="HackTheBox" url="https://hackthebox.com/" />
           <LinkCard title="YouTube" url="https://www.youtube.com/@tmlvnn" />
+          <LinkCard
+            title="LeetCode"
+            url="https://leetcode.com/u/tamilvanansambasivam/"
+          />
 
           <LinkCard title="Medium" url="https://medium.com/@tmlvnn" />
           <LinkCard title="Twitter" url="https://x.com/tmlvnn" />
