@@ -35,6 +35,10 @@ export default function App() {
           <LinkCard title="ChatGPT" url="https://chatgpt.com/" />
           <LinkCard title="Excalidraw" url="https://excalidraw.com/" />
           <LinkCard title="Yewtu.be (YouTube alt)" url="https://yewtu.be/" />
+          <LinkCard
+            title="Udemy"
+            url="https://www.udemy.com/home/my-courses/learning/"
+          />
         </section>
       </div>
     </div>
