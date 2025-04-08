@@ -30,7 +30,7 @@ export default function App() {
           />
 
           <LinkCard title="Medium" url="https://medium.com/@tmlvnn" />
-          <LinkCard title="Twitter" url="https://x.com/tmlvnn" />
+
           <LinkCard title="PortSwigger" url="https://portswigger.net/" />
           <LinkCard title="ChatGPT" url="https://chatgpt.com/" />
           <LinkCard title="Excalidraw" url="https://excalidraw.com/" />
