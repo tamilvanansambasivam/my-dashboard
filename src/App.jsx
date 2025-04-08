@@ -40,6 +40,7 @@ export default function App() {
             title="Udemy"
             url="https://www.udemy.com/home/my-courses/learning/"
           />
+          <LinkCard title="Notion" url="https://www.notion.so/" />
         </section>
       </div>
     </div>
