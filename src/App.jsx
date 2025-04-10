@@ -42,6 +42,8 @@ export default function App() {
           />
           <LinkCard title="Notion" url="https://www.notion.so/" />
           <LinkCard title="HackerOne" url="https://hackerone.com/tmlvnn" />
+          <LinkCard title="HackerOne CTF" url="https://ctf.hacker101.com/ctf" />
+
           <LinkCard title="BugCrowd" url="https://bugcrowd.com/tmlvnn" />
         </section>
       </div>
