@@ -33,7 +33,7 @@ export default function App() {
               title="LeetCode"
               url="https://leetcode.com/u/tamilvanansambasivam/"
             />
-
+            <LinkCard title="NeetCode" url="https://neetcode.io/practice" />
             <LinkCard
               title="Udemy"
               url="https://www.udemy.com/home/my-courses/learning/"
