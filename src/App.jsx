@@ -65,6 +65,7 @@ export default function App() {
             <LinkCard title="YouTube" url="https://www.youtube.com/@tmlvnn" />
             <LinkCard title="Medium" url="https://medium.com/@tmlvnn" />
             <LinkCard title="Substack" url="https://substack.com/@tamilvanan" />
+            <LinkCard title="Dev" url="https://dev.to/tamilvanan" />
           </div>
         </section>
       </div>
